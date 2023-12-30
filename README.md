@@ -1,0 +1,1 @@
+I have implemented Simple Calculator using vanilla javascript
